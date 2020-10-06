@@ -1,10 +1,11 @@
 ### Hi there ⛳️
 
-My name is James Johnson. I am a software engineer; I say that instead of front-end, back-end, or full stack because I am not any one of those more so than the others. I like building apps from the ground up. Some of them include front-ends, some of them are just an API for learning how to build one a certain way.
+My name is James Johnson and I am a software engineer. I like building apps from the ground up. Some of them include front-ends, and some of them are just command line tools for learning something new. 
 
-#### Currently Working On _(Alot)_
+#### Currently Working On
 
 * [Stockpile Stock App](https://www.github.com/jamesj0717/inventory-management)
+* [Golf Course Info](https://www.GitHub.com/jamesj0717/golf-finder)
 * Discord Bot
 * Better Port Scanner
 
@@ -12,11 +13,12 @@ My name is James Johnson. I am a software engineer; I say that instead of front-
 
 * Rust
 * Go
+* Next.js
 * JS (always learning more)
 
 #### How to Reach Me
 
-* [Email me@jamesjohnson.io](mailto:me@jamesjohnson.io)
+* [Email - me@jamesjohnson.io](mailto:me@jamesjohnson.io)
 * [Twitter](https://www.twitter.com/jameslovesalex)
 * [Linkedin](https://www.linkedin.com/in/jamesjjjohnson)
 
