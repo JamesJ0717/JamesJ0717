@@ -2,13 +2,6 @@
 
 My name is James Johnson and I am a software engineer. I like building apps from the ground up. Some of them include front-ends, and some of them are just command line tools for learning something new. 
 
-#### Currently Working On
-
-* [Stockpile Stock App](https://www.github.com/jamesj0717/inventory-management)
-* [Golf Course Info](https://www.GitHub.com/jamesj0717/golf-finder)
-* Discord Bot
-* Better Port Scanner
-
 #### Currently Learning
 
 * Rust
@@ -19,7 +12,6 @@ My name is James Johnson and I am a software engineer. I like building apps from
 #### How to Reach Me
 
 * [Email - james@jamesjohnson.io](mailto:james@jamesjohnson.io)
-* [Twitter](https://www.twitter.com/jameslovesalex)
 * [Linkedin](https://www.linkedin.com/in/jamesjjjohnson)
 * [PolyWork](https://www.polywork.com/jamesj)
 
