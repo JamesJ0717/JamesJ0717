@@ -12,9 +12,9 @@ My name is James Johnson and I am a software engineer. I like building apps from
 #### How to Reach Me
 
 * [Email - james@jamesjohnson.io](mailto:james@jamesjohnson.io)
-* [Linkedin](https://www.linkedin.com/in/jamesjjjohnson)
-* [PolyWork](https://www.polywork.com/jamesj)
-* [Twitter](https://www.Twitter.com/jamesj_dev)
+* [Linkedin](https://www.linkedin.com/in/jamesjjjohnson){:target="_blank"}
+* [PolyWork](https://www.polywork.com/jamesj){:target="_blank"}
+* [Twitter](https://www.Twitter.com/jamesj_dev){:target="_blank"}
 
 <!--
 **JamesJ0717/JamesJ0717** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
