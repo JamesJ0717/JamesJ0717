@@ -13,7 +13,6 @@ My name is James Johnson and I am a software engineer. I like building apps from
 
 * [Email - james@jamesjohnson.io](mailto:james@jamesjohnson.io)
 * [Linkedin](https://www.linkedin.com/in/jamesjjjohnson)
-* [PolyWork](https://www.polywork.com/jamesj)
 * [Twitter](https://www.Twitter.com/jamesj_dev)
 
 <!--
